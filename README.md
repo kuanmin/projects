@@ -1,16 +1,17 @@
 Projects:<br />
 
-[Latent Semantic Indexing](https://github.com/kuanmin/projects/tree/master/LSI) (Python) <br />
-In this project, we discusses the implementation of a LSI-based (latent semantic indexing) information retrieval model, and evaluates its performance against the traditional vector space model (VSM) on a collection with 18,828 documents.
+[Information Retrieval on NLTK corpora](https://github.com/kuanmin/projects/tree/master/LSI) (Python) <br />
+In this project, we discusses the implementation of a **Latent Semantic Indexing**-based information retrieval model, and evaluates its performance against the **Vector Space Model** on a collection with 18,828 documents.
 
+[Automated ICD Coding](https://github.com/kuanmin/projects/tree/master/LSI) (Python) <br />
+To reduce coding errors and cost, this is my approach applying **Latent Semantic Indexing** to build an ICD coding machine which automatically and accurately translates
+the free-text diagnosis descriptions into ICD codes.
 
 [Recipe Finder](https://drive.google.com/drive/folders/10a75TzSMbRbXZJtyzNDduypMRhvqyRve?usp=sharing) (JavaScript / Apache Jena Fuseki) <br />
 In this project, we build an API providing households with an easy way to find recipes incorporating food they need to either consume today or throw away tomorrow. We tapped into the power of the Semantic Web and developed an application which allows its users to browse recipes based on leftovers they might have in their kitchen, ultimately reducing food waste.
 
-
 [Data & Matrix](https://drive.google.com/drive/folders/10a75TzSMbRbXZJtyzNDduypMRhvqyRve?usp=sharing) (R) <br />
 In these tasks, data analytical skills related to **Matrix Completion**, **Non-Negative Matrix Factorization**, and **Singular Value Decomposition** are applied.
-
 
 [Integrating Web Data on Video Games and Companies](https://drive.google.com/drive/folders/10a75TzSMbRbXZJtyzNDduypMRhvqyRve?usp=sharing) (Python, Java, XML / MapForce) <br />
 In this project, we worked with Python and Java libraries BeautifulSoup, Selenium WebDriver, and Jsoup3. And data analytical skills related to **Data Translation**, **Identity Resolution**, and **Data Fusion** are applied.
