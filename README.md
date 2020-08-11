@@ -1,6 +1,12 @@
 Projects:<br />
 (Click on the project name for reports, presentations, and analyses.)
 
+ - [Enhancement of LibKGE](https://github.com/kuanmin/kge-cowork) (`Python`) <br />
+    - This is the ongoing project along with my thesis work.
+    - LibKGE is a PyTorch-based library for efficient training, evaluation, and hyperparameter optimization of [knowledge graph embeddings](https://ieeexplore.ieee.org/document/8047276) (KGE).
+    - I am implementing new functions to LibKGE, which will allow the New package to run training and validation, not just on single KGE model, but multiple models in one process, so to permit joint training and block training.
+
+
  - [Information Retrieval on NLTK corpora](https://github.com/kuanmin/projects/tree/master/LSI) (`Python`) <br />
    - In this project, we discusses the implementation of a **Latent Semantic Indexing**-based information retrieval model, and evaluates its performance against the **Vector Space Model** on a collection with 18,828 documents.
 
