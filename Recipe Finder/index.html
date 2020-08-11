@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Semantic Recipe Finder</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="css/style.css" rel="stylesheet" media="screen">
+  </head>
+  <body>
+    <div id="toptop"></div>
+    <h1>Semantic Foodista query</h1>
+    <form autocomplete="off" action="/action_page.php">
+      <div class="autocomplete" style="width:300px;">
+    Include: <input id="keyin" type=text placeholder="e.g. Rice" onkeydown="addIngredient(this)" onkeyup="shiftUp()">
+  </div>
+</form>
+<form autocomplete="off" action="/action_page.php">
+  <div class="autocomplete" style="width:300px;">
+    Exclude: <input id="keyinEx" type=text placeholder="e.g. Tomato" onkeydown="addIngredientExclude(this)" onkeyup="shiftUp()">
+  </div>
+</form>
+    <!--<input type="button" class="button-btn" value="Search Recipes!" onClick="getRecipes()">-->
+    <br>
+    <div id="IngredientList">
+      <h3>Ingredients (red means exclude, green means include):</h3>
+    </div>
+    
+    <div id="RecipeArea">
+      <input type="button" class="button-btn" value="Use up more!" onClick="getRecipes2()">
+      <input type="button" class="button-btn" value="Buy less extra!" onClick="getRecipes()">
+      <h2>Suggested Recipes:</h2>
+      <table class="table" id="RecipeTable"><thead>
+        <tr id="RecipeTableHead"><th scope="col" width="900em">Name</th><th scope="col"># owned</th><th scope="col"># missing</th><th scope="col">Ingredients</th></tr>
+      </thead>
+
+        <tbody>
+          <tr></tr>
+        </tbody>
+      </table>
+      <div id="loading" hidden=true class="centered"><img src="./ajax-loader.gif"></div>
+    </div>
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/scripts.js"></script>
+    <script>
+      autocomplete(document.getElementById("keyin"), ingredientsall);
+      autocomplete(document.getElementById("keyinEx"), ingredientsall);
+    </script>
+  </body>
+</html>
