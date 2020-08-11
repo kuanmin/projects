@@ -27,7 +27,7 @@ the free-text diagnosis descriptions into ICD codes.
    - For example, our integrated data can provide answers on manifold questions such as ‘Which game platform currently generates the most revenue?’, ‘Which genre types are most popular among the users?’, ’How does game experts’ judgment affect the market sales‘, or ‘How does the revenue of games differ from the worldwide regions?’.
 <p align="center">
   <img width="50%" height="50%" src="https://github.com/kuanmin/projects/blob/master/Integrating%20Web%20Data/VideoGames_Shema.png"/>
-  <img width="50%" height="50%" src="https://github.com/kuanmin/projects/blob/master/Integrating%20Web%20Data/VideoGames_Shema_2.png"/>
+  <img width="30%" height="30%" src="https://github.com/kuanmin/projects/blob/master/Integrating%20Web%20Data/VideoGames_Shema_2.png"/>
 </p>
    
 
