@@ -12,8 +12,9 @@ the free-text diagnosis descriptions into ICD codes.
    - Apache Jena, a Java framework, is a well-known Semantic Web programming framework. In this project, data knowledge related to **Linked Open Data** and **Ontology engineering** are applied. 
    - We build an API using Apache Jena providing households with an easy way to find recipes incorporating food they need to either consume today or throw away tomorrow. We tapped into the power of the Semantic Web and developed an application which allows its users to browse recipes based on leftovers they might have in their kitchen, ultimately reducing food waste. 
 
-![photo_name](https://github.com/kuanmin/projects/blob/master/Recipe%20Finder/pics/example_results.PNG)
-
+<p align="center">
+  <img width="80%" height="300" src="https://github.com/kuanmin/projects/blob/master/Recipe%20Finder/pics/example_results.PNG">
+</p>
 
  - [Data & Matrix](https://drive.google.com/drive/folders/10a75TzSMbRbXZJtyzNDduypMRhvqyRve?usp=sharing) (`R`) <br />
    - In these tasks, data analytical skills related to **Matrix Completion**, **Non-Negative Matrix Factorization**, and **Singular Value Decomposition** are applied.
