@@ -18,7 +18,7 @@ the free-text diagnosis descriptions into ICD codes.
  - [Data & Matrix](https://drive.google.com/drive/folders/10a75TzSMbRbXZJtyzNDduypMRhvqyRve?usp=sharing) (`R`) <br />
    - In these tasks, data analytical skills related to **Matrix Completion**, **Non-Negative Matrix Factorization**, and **Singular Value Decomposition** are applied.
 <p align="center">
-  <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Data%20and%20Matrix/pics/recovered.png">
+  <img width="50%" height="50%" src="https://github.com/kuanmin/projects/blob/master/Data%20and%20Matrix/pics/recovered.png">
 </p>
 
  - [Integrating Web Data on Video Games and Companies](https://drive.google.com/drive/folders/10a75TzSMbRbXZJtyzNDduypMRhvqyRve?usp=sharing) (`Python`, `Java`, `XML` / *MapForce*) <br />
