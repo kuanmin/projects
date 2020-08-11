@@ -1,5 +1,5 @@
 Projects:<br />
-(Click on the project name for more contents.)
+(Click on the project name for reports, presentations, and analyses.)
 
  - [Information Retrieval on NLTK corpora](https://github.com/kuanmin/projects/tree/master/LSI) (`Python`) <br />
    - In this project, we discusses the implementation of a **Latent Semantic Indexing**-based information retrieval model, and evaluates its performance against the **Vector Space Model** on a collection with 18,828 documents.
