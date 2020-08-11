@@ -38,7 +38,7 @@ the free-text diagnosis descriptions into ICD codes.
   <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/AI-Based%20Insurance%20Broker/chain.png"/>
 </p>
 <p align="center">
-  <img width="380%" height="38%" src="https://github.com/kuanmin/projects/blob/master/AI-Based%20Insurance%20Broker/React_01.png"/>
+  <img width="38%" height="38%" src="https://github.com/kuanmin/projects/blob/master/AI-Based%20Insurance%20Broker/React_01.png"/>
   <img width="38%" height="38%" src="https://github.com/kuanmin/projects/blob/master/AI-Based%20Insurance%20Broker/React_02.png"/>
 </p>
 
