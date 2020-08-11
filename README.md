@@ -13,7 +13,7 @@ the free-text diagnosis descriptions into ICD codes.
    - We build an API using Apache Jena providing households with an easy way to find recipes incorporating food they need to either consume today or throw away tomorrow. We tapped into the power of the Semantic Web and developed an application which allows its users to browse recipes based on leftovers they might have in their kitchen, ultimately reducing food waste. 
 
 <p align="center">
-  <img width="20%" height="20%" src="https://github.com/kuanmin/projects/blob/master/Recipe%20Finder/pics/example_results.PNG">
+  <img width="20%" height="20%" src="https://github.com/kuanmin/projects/blob/master/Recipe%20Finder/pics/combined.PNG">
 </p>
 
  - [Data & Matrix](https://drive.google.com/drive/folders/10a75TzSMbRbXZJtyzNDduypMRhvqyRve?usp=sharing) (`R`) <br />
