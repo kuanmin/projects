@@ -23,7 +23,7 @@ the free-text diagnosis descriptions into ICD codes.
   <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Company%20Name%20Matching/output_example.png">
 </p>
 <p align="center">
-  <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Company%20Name%20Matching/analysis.png">
+  <img width="70%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Company%20Name%20Matching/analysis.png">
 </p>
 
  - [Recipe Finder](https://drive.google.com/drive/folders/10a75TzSMbRbXZJtyzNDduypMRhvqyRve?usp=sharing) (`Java`, `RDFS`, `SPARQL`, `JavaScript` / *Apache Jena*) <br />
