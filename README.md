@@ -17,6 +17,14 @@ the free-text diagnosis descriptions into ICD codes.
   <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/ICD%20matching/output_example.png">
 </p>
 
+ - [Company Name Matching](https://github.com/kuanmin/projects/tree/master/LSI) (`Python`) <br />
+   - Some input data are built by handwriting or typing, which might cause data inconsistency and wrong inputs. This will lead to tremendous problems for end users, such as product managers and analysts. We want to avoid any operational inefficiency involving manual correction or misleading statistics or analysis at the further end of the reporting process. This is my attempt applying different type of **Identity Resolution** approaches, such as **jaccard**, **jaro winkler**, **hamming**, **levenshtein**, and **ratcliff obershelp**, to analyse the company name dataset. we also apply **Block methods** with criteria "country" to avoid unnecessary comparisons and reduce quadratic runtime complexity.
+   
+   
+   
+<p align="center">
+  <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/ICD%20matching/output_example.png">
+</p>
 
  - [Recipe Finder](https://drive.google.com/drive/folders/10a75TzSMbRbXZJtyzNDduypMRhvqyRve?usp=sharing) (`Java`, `RDFS`, `SPARQL`, `JavaScript` / *Apache Jena*) <br />
    - Apache Jena, a Java framework, is a well-known Semantic Web programming framework. In this project, data knowledge related to **Linked Open Data** and **Ontology engineering** are applied. 
