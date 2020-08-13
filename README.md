@@ -13,6 +13,10 @@ Projects:<br />
  - [Automated ICD Coding](https://github.com/kuanmin/projects/tree/master/LSI) (`Python`) <br />
    - To reduce coding errors and cost, this is my attempt applying **Latent Semantic Indexing** to build an ICD coding machine which automatically and accurately translates
 the free-text diagnosis descriptions into ICD codes.
+<p align="center">
+  <img width="100%" height="80%" src="https://github.com/kuanmin/projects/blob/master/ICD%20matching/output_example.png">
+</p>
+
 
  - [Recipe Finder](https://drive.google.com/drive/folders/10a75TzSMbRbXZJtyzNDduypMRhvqyRve?usp=sharing) (`Java`, `RDFS`, `SPARQL`, `JavaScript` / *Apache Jena*) <br />
    - Apache Jena, a Java framework, is a well-known Semantic Web programming framework. In this project, data knowledge related to **Linked Open Data** and **Ontology engineering** are applied. 
