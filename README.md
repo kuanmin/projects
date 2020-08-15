@@ -8,7 +8,7 @@ Projects:<br />
 
 
  - [Information Retrieval on NLTK corpora](https://github.com/kuanmin/projects/tree/master/Information%20Retrieval) (`Python`) <br />
-   - In this project, we discusses the implementation of a **Latent Semantic Indexing**-based information retrieval model, and evaluates its performance against the **Vector Space Model** on a collection with 18,828 documents.
+   - In this project, we discuss the implementation of a **Latent Semantic Indexing**-based information retrieval model, and evaluates its performance against the **Vector Space Model** on a collection with 18,828 documents.
 
  - [Automated ICD Coding](https://github.com/kuanmin/projects/tree/master/ICD%20matching) (`Python`) <br />
    - To reduce coding errors and cost, this is my attempt applying **Latent Semantic Indexing** to build an ICD coding machine which automatically and accurately translates
