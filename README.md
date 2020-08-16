@@ -5,6 +5,24 @@ Projects:<br />
     - This is the ongoing project along with my thesis work.
     - Open source LibKGE framework is a PyTorch-based library for efficient training, evaluation, and hyperparameter optimization of [knowledge graph embeddings](https://ieeexplore.ieee.org/document/8047276) (KGE). The key goal is to foster reproducible research into (as well as meaningful comparisons between) KGE models and training methods. As the authors argue in [ICLR 2020 paper](https://openreview.net/forum?id=BkxSmlBFvr), the choice of training strategy and hyperparameters are very influential on model performance, often more so than the model class itself.
     - I am implementing new functions to LibKGE, which will allow the New package to run training and validation, not just on single KGE model, but multiple models in one process, so to be able to performe joint training and alternative training models.
+    
+ - [Profitability Analysis with Excel VBA](https://github.com/kuanmin/projects/tree/master/Profitability%20Analysis%20with%20Excel%20VBA) (`Python`) <br />
+   - In this project, we discuss the implementation of a **Latent Semantic Indexing**-based information retrieval model, and evaluates its performance against the **Vector Space Model** on a collection with 18,828 documents.
+   
+<p align="center">
+  <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Profitability%20Analysis%20with%20Excel%20VBA/asset_sheet.png">
+</p>
+<p align="center">
+  <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Profitability%20Analysis%20with%20Excel%20VBA/assumption.png">
+</p>
+<p align="center">
+  <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Profitability%20Analysis%20with%20Excel%20VBA/profit_analysis.png">
+</p>
+<p align="center">
+  <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Profitability%20Analysis%20with%20Excel%20VBA/sensitivity_test.png">
+</p>
+   
+   
 
 
  - [Information Retrieval on NLTK corpora](https://github.com/kuanmin/projects/tree/master/Information%20Retrieval) (`Python`) <br />
