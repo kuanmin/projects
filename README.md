@@ -19,7 +19,7 @@ Projects:<br />
   <img width="42%" height="42%" src="https://github.com/kuanmin/projects/blob/master/Profitability%20Analysis%20with%20Excel%20VBA/sensitivity_test.png">
 </p>
 <p align="center">
-  <img width="42%" height="42%" src="https://github.com/kuanmin/projects/blob/master/Profitability%20Analysis%20with%20Excel%20VBA/VBA.png">
+  <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Profitability%20Analysis%20with%20Excel%20VBA/VBA.png">
 </p>
 
  - [Information Retrieval on NLTK corpora](https://github.com/kuanmin/projects/tree/master/Information%20Retrieval) (`Python`) <br />
