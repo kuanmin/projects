@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="VideoGames">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="game" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="developer" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+		<xs:key name="gameKey">
+			<xs:selector xpath=".//game"/>
+			<xs:field xpath="@id"/>
+		</xs:key>
+		<xs:key name="developerKey">
+			<xs:selector xpath=".//developer"/>
+			<xs:field xpath="@id"/>
+		</xs:key>
+		<xs:keyref name="gameToDeveloper" refer="developerKey">
+			<xs:selector xpath=".//game"/>
+			<xs:field xpath="@developer"/>
+		</xs:keyref>
+		<xs:keyref name="notableGamesToGame" refer="gameKey">
+			<xs:selector xpath=".//notableGames"/>
+			<xs:field xpath="@game"/>
+		</xs:keyref>
+	</xs:element>
+	<xs:element name="game">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="nameOfGame" type="xs:string"/>
+				<xs:element name="publisher" type="xs:string"/>
+				<xs:element name="platform" type="xs:string"/>
+				<xs:element name="genre" type="xs:string"/>
+				<xs:element name="releaseDate" type="xs:date"/>
+				<xs:element name="userScore" type="positiveDecimal"/>
+				<xs:element ref="maturityRating"/>
+				<xs:element name="seller" type="xs:string"/>
+				<xs:element name="price" type="positiveDecimal"/>
+				<xs:element name="currency" type="xs:string"/>
+				<xs:element name="expertScore" type="ratingDecimal"/>
+				<xs:group ref="gameSales"/>
+			</xs:sequence>
+			<xs:attribute ref="id" use="required"/>
+			<xs:attribute name="developer" type="xs:IDREF" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:simpleType name="positiveDecimal">
+		<xs:restriction base="xs:decimal">
+			<xs:minInclusive value="0"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:element name="maturityRating">
+		<xs:simpleType>
+			<xs:restriction base="xs:string">
+				<xs:enumeration value="M"/>
+				<xs:enumeration value="T"/>
+				<xs:enumeration value="E10+"/>
+				<xs:enumeration value="E"/>
+				<xs:enumeration value="K-A"/>
+				<xs:enumeration value="AO"/>
+				<xs:enumeration value="RP"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+	
+	
+	<xs:simpleType name="ratingDecimal">
+		<xs:restriction base="xs:decimal">
+			<xs:minInclusive value="0"/>
+			<xs:maxInclusive value="10"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	
+	<xs:group name="gameSales">
+		<xs:sequence>
+			<xs:element name="totalSales" type="positiveDecimal"/>
+			<xs:element name="NASales" type="positiveDecimal"/>
+			<xs:element name="PALSales" type="positiveDecimal"/>
+			<xs:element name="JapanSales" type="positiveDecimal"/>
+			<xs:element name="otherSales" type="positiveDecimal"/>
+		</xs:sequence>
+	</xs:group>
+	
+	
+	<xs:attribute name="id" type="xs:ID"/>
+	
+	
+	<xs:element name="developer">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="nameOfDeveloper" type="xs:string"/>
+				<xs:element ref="notableGames" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:group ref="location"/>
+				<xs:element name="established" type="xs:date"/>
+				<xs:element name="notes" type="xs:string"/>
+			</xs:sequence>
+			<xs:attribute ref="id" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="notableGames">
+		<xs:complexType>
+			<xs:attribute name="game" type="xs:IDREF"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:group name="location">
+		<xs:sequence>
+			<xs:element name="country" type="xs:string"/>
+			<xs:element name="state" type="xs:string"/>
+			<xs:element name="city" type="xs:string"/>
+		</xs:sequence>
+	</xs:group>
+</xs:schema>
