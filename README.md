@@ -6,7 +6,7 @@ Projects:<br />
     - Open source LibKGE framework is a PyTorch-based library for efficient training, evaluation, and hyperparameter optimization of [knowledge graph embeddings](https://ieeexplore.ieee.org/document/8047276) (KGE). The key goal is to foster reproducible research into (as well as meaningful comparisons between) KGE models and training methods. As the authors argue in [ICLR 2020 paper](https://openreview.net/forum?id=BkxSmlBFvr), the choice of training strategy and hyperparameters are very influential on model performance, often more so than the model class itself.
     - I am implementing new functions to LibKGE, which will allow the New package to run training and validation, not just on single KGE model, but multiple models in one process, so to be able to performe joint training and alternative training models.
     
- - [Profitability Analysis with Excel VBA](https://github.com/kuanmin/projects/tree/master/Profitability%20Analysis%20with%20Excel%20VBA) (`VBA`) <br />
+ - [Profitability - Statistical Analysis with Excel VBA](https://github.com/kuanmin/projects/tree/master/Profitability%20Analysis%20with%20Excel%20VBA) (`VBA`) <br />
    - Our team of actuaries play a vital role in our organization. Our daily works relate to actuarial analysis, including **Modelling**, **Predicting**, **Profit and Surplus Analysis**, **Risk and Uncertainty**, and **Validation**. And Excel has been applied to parts of these tasks. Here are some examples from my work.
    - Click on the images to see the originals. From left to right, up to down: *asset sheet* - *assumption* - *profit analysis* - *sensitivity test*
 <p align="center">
