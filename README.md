@@ -8,7 +8,7 @@ Projects:<br />
     
  - [Profitability Analysis with Excel VBA](https://github.com/kuanmin/projects/tree/master/Profitability%20Analysis%20with%20Excel%20VBA) (`Python`) <br />
    - In this project, we discuss the implementation of a **Latent Semantic Indexing**-based information retrieval model, and evaluates its performance against the **Vector Space Model** on a collection with 18,828 documents.
-   - Click on the images to see the originals.
+   - Click on the images to see the originals. From left to right, up to down: *asset sheet* - *assumption* - *profit analysis* - *sensitivity test*
 <p align="center">
   <img width="42%" height="42%" src="https://github.com/kuanmin/projects/blob/master/Profitability%20Analysis%20with%20Excel%20VBA/asset_sheet.png">
   <img width="42%" height="42%" src="https://github.com/kuanmin/projects/blob/master/Profitability%20Analysis%20with%20Excel%20VBA/assumption.png">
