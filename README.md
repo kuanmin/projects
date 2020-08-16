@@ -7,7 +7,7 @@ Projects:<br />
     - I am implementing new functions to LibKGE, which will allow the New package to run training and validation, not just on single KGE model, but multiple models in one process, so to be able to performe joint training and alternative training models.
     
  - [Profitability Analysis with Excel VBA](https://github.com/kuanmin/projects/tree/master/Profitability%20Analysis%20with%20Excel%20VBA) (`VBA`) <br />
-   - Our team of actuaries play a vital role in our organization. Our daily works relate to actuarial analysis, including **Modelling**, **Predicting**, **Profit and Surplus Analysis**, **Risk and Uncertainty**, and **Validation**. And Excel are applied to parts of these tasks. Here are some examples from my work.
+   - Our team of actuaries play a vital role in our organization. Our daily works relate to actuarial analysis, including **Modelling**, **Predicting**, **Profit and Surplus Analysis**, **Risk and Uncertainty**, and **Validation**. And Excel has been applied to parts of these tasks. Here are some examples from my work.
    - Click on the images to see the originals. From left to right, up to down: *asset sheet* - *assumption* - *profit analysis* - *sensitivity test*
 <p align="center">
   <img width="42%" height="42%" src="https://github.com/kuanmin/projects/blob/master/Profitability%20Analysis%20with%20Excel%20VBA/asset_sheet.png">
