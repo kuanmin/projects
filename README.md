@@ -24,6 +24,12 @@ Projects:<br />
 
  - [Information Retrieval on NLTK corpora](https://github.com/kuanmin/projects/tree/master/Information%20Retrieval) (`Python`) <br />
    - In this project, we discuss the implementation of a **Latent Semantic Indexing**-based information retrieval model, and evaluates its performance against the **Vector Space Model** on a collection with 18,828 documents.
+   
+ - [Data Infrastructure](https://github.com/kuanmin/projects/blob/master/Data%20Infrastructure/data_pipeline.png) (`SQL` / *PostgreSQL*) <br />
+   - While working in the data team of Risk Management department, we deal with financial products and the transactions. Our work is to maintain and improve the data infrastructure of the settlement process. This involves **data pipeline**, **data modeling**, and **data warehouse**. Here are the examples of data pipeline and data model from our work.
+<p align="center">
+  <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Data%20Infrastructure/data_pipeline.png">
+</p>
 
  - [Automated ICD Coding](https://github.com/kuanmin/projects/tree/master/ICD%20matching) (`Python`) <br />
    - To reduce coding errors and cost, this is my attempt applying **Latent Semantic Indexing** to build an ICD coding machine which automatically and accurately translates
@@ -42,7 +48,7 @@ the free-text diagnosis descriptions into ICD codes.
   <img width="65%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Company%20Name%20Matching/analysis.png">
 </p>
 
- - [Recipe Finder](https://github.com/kuanmin/projects/tree/master/Recipe%20Finder) (`Java`, `RDFS`, `SPARQL`, `JavaScript` / *Apache Jena*) <br />
+ - [Recipe Finder](https://github.com/kuanmin/projects/tree/master/Recipe%20Finder) (`Java`, `RDFS`, `SPARQL`, `SQL`, `JavaScript` / *Apache Jena*) <br />
    - Apache Jena, a Java framework, is a well-known Semantic Web programming framework. In this project, data knowledge related to **Linked Open Data** and **Ontology engineering** are applied. 
    - We build an API using Apache Jena providing households with an easy way to find recipes incorporating food they need to either consume today or throw away tomorrow. We tapped into the power of the Semantic Web and developed an application which allows its users to browse recipes based on leftovers they might have in their kitchen, ultimately reducing food waste. 
 <p align="center">
