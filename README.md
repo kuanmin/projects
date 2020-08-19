@@ -26,10 +26,15 @@ Projects:<br />
    - In this project, we discuss the implementation of a **Latent Semantic Indexing**-based information retrieval model, and evaluates its performance against the **Vector Space Model** on a collection with 18,828 documents.
    
  - [Data Infrastructure](https://github.com/kuanmin/projects/blob/master/Data%20Infrastructure/data_pipeline.png) (`SQL` / *PostgreSQL*) <br />
-   - While working in the data team of Risk Management department, we deal with financial products and the transactions. Our work is to maintain and improve the data infrastructure of the settlement process. This involves **data pipeline**, **data checks**, **data modeling**, and **data warehouse**. Here is the data pipeline example from our work.
+   - While working in the data team of Risk Management department, we deal with financial products and the transactions. Our work is to maintain and improve the data infrastructure of the settlement process. This involves **data pipeline**, **data checks**, **data modeling**, and **data warehouse**. Here are the examples for *data pipeline* and *data model* from our work.
 <p align="center">
   <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Data%20Infrastructure/data_pipeline.png">
 </p>
+<p align="center">
+  <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Data%20Infrastructure/Data_Model.png">
+</p>
+
+
 
  - [Automated ICD Coding](https://github.com/kuanmin/projects/tree/master/ICD%20matching) (`Python`) <br />
    - To reduce coding errors and cost, this is my attempt applying **Latent Semantic Indexing** to build an ICD coding machine which automatically and accurately translates
