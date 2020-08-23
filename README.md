@@ -21,9 +21,17 @@ Projects:<br />
   <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Profitability%20Analysis%20with%20Excel%20VBA/VBA.png">
 </p>
 
- - [Information Retrieval on NLTK corpora](https://github.com/kuanmin/projects/tree/master/Information%20Retrieval) (`Python`) <br />
-   - In this project, we discuss the implementation of a **Latent Semantic Indexing**-based information retrieval model, and evaluates its performance against the **Vector Space Model** on a collection with 18,828 documents.
-   
+ - [AI-Based Insurance Broker](https://github.com/kuanmin/projects/tree/master/AI-Based%20Insurance%20Broker) (`Java`, `JSON`, `JavaScript`, *Java AWT*, *NetBeans*, *MongoDB*, *React*, *Flask*) <br />
+   - In this project, data knowledge related to **Ontology engineering** and **Multiple-criteria decision analysis** are applied. 
+   - We want to shed light onto the current technological state of the insurance broker industry and how AI may transform it. Furthermore, we provide an Recommender System for dental insurances using the **Technique for Order of Preference by Similarity to Ideal Solution** (TOPSIS), a popular **Multiple Criteria Decision Making Method** (MCDM). In addition we design an architectural model which may serve as an example of how to implement an insurance recommender system as a web application with state of the art technology.
+
+<p align="center">
+  <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/AI-Based%20Insurance%20Broker/chain.png"/>
+</p>
+<p align="center">
+  <img width="38%" height="38%" src="https://github.com/kuanmin/projects/blob/master/AI-Based%20Insurance%20Broker/React_01.png"/>
+  <img width="38%" height="38%" src="https://github.com/kuanmin/projects/blob/master/AI-Based%20Insurance%20Broker/React_02.png"/>
+</p>
  - [Data Infrastructure](https://github.com/kuanmin/projects/blob/master/Data%20Infrastructure/data_pipeline.png) (`SQL` / *PostgreSQL*) <br />
    - While working in the data team of Risk Management department, we deal with financial products and the transactions. Our work is to maintain and improve the data infrastructure of the settlement process. This involves **data pipeline**, **data checks**, **data modeling**, and **data warehouse**. Here are the examples for *data pipeline* and *data model* from our work.
 <p align="center">
@@ -32,6 +40,18 @@ Projects:<br />
 <p align="center">
   <img width="70%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Data%20Infrastructure/Data_Model.png">
 </p>
+
+ - [Recipe Finder](https://github.com/kuanmin/projects/tree/master/Recipe%20Finder) (`Java`, `RDFS`, `SPARQL`, `SQL`, `JavaScript` / *Apache Jena*) <br />
+   - Apache Jena, a Java framework, is a well-known Semantic Web programming framework. In this project, data knowledge related to **Linked Open Data** and **Ontology engineering** are applied. 
+   - We build an API using Apache Jena providing households with an easy way to find recipes incorporating food they need to either consume today or throw away tomorrow. We tapped into the power of the Semantic Web and developed an application which allows its users to browse recipes based on leftovers they might have in their kitchen, ultimately reducing food waste. 
+<p align="center">
+  <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Recipe%20Finder/pics/combined.PNG">
+</p>
+
+ - [Information Retrieval on NLTK corpora](https://github.com/kuanmin/projects/tree/master/Information%20Retrieval) (`Python`) <br />
+   - In this project, we discuss the implementation of a **Latent Semantic Indexing**-based information retrieval model, and evaluates its performance against the **Vector Space Model** on a collection with 18,828 documents.
+   
+
 
 
 
@@ -52,12 +72,7 @@ the free-text diagnosis descriptions into ICD codes.
   <img width="65%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Company%20Name%20Matching/analysis.png">
 </p>
 
- - [Recipe Finder](https://github.com/kuanmin/projects/tree/master/Recipe%20Finder) (`Java`, `RDFS`, `SPARQL`, `SQL`, `JavaScript` / *Apache Jena*) <br />
-   - Apache Jena, a Java framework, is a well-known Semantic Web programming framework. In this project, data knowledge related to **Linked Open Data** and **Ontology engineering** are applied. 
-   - We build an API using Apache Jena providing households with an easy way to find recipes incorporating food they need to either consume today or throw away tomorrow. We tapped into the power of the Semantic Web and developed an application which allows its users to browse recipes based on leftovers they might have in their kitchen, ultimately reducing food waste. 
-<p align="center">
-  <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Recipe%20Finder/pics/combined.PNG">
-</p>
+
 
  - [Data & Matrix](https://github.com/kuanmin/projects/tree/master/Data%20and%20Matrix) (`R`) <br />
    - In these tasks, data analytical skills related to **Matrix Completion**, **Non-Negative Matrix Factorization**, and **Singular Value Decomposition** are applied.
@@ -74,17 +89,7 @@ the free-text diagnosis descriptions into ICD codes.
   <img width="31%" height="31%" src="https://github.com/kuanmin/projects/blob/master/Integrating%20Web%20Data/VideoGames_Shema_2.png"/>
 </p>
    
- - [AI-Based Insurance Broker](https://github.com/kuanmin/projects/tree/master/AI-Based%20Insurance%20Broker) (`Java`, `JSON`, `JavaScript`, *Java AWT*, *NetBeans*, *MongoDB*, *React*, *Flask*) <br />
-   - In this project, data knowledge related to **Ontology engineering** and **Multiple-criteria decision analysis** are applied. 
-   - We want to shed light onto the current technological state of the insurance broker industry and how AI may transform it. Furthermore, we provide an Recommender System for dental insurances using the **Technique for Order of Preference by Similarity to Ideal Solution** (TOPSIS), a popular **Multiple Criteria Decision Making Method** (MCDM). In addition we design an architectural model which may serve as an example of how to implement an insurance recommender system as a web application with state of the art technology.
 
-<p align="center">
-  <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/AI-Based%20Insurance%20Broker/chain.png"/>
-</p>
-<p align="center">
-  <img width="38%" height="38%" src="https://github.com/kuanmin/projects/blob/master/AI-Based%20Insurance%20Broker/React_01.png"/>
-  <img width="38%" height="38%" src="https://github.com/kuanmin/projects/blob/master/AI-Based%20Insurance%20Broker/React_02.png"/>
-</p>
 
 
    
