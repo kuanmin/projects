@@ -50,7 +50,7 @@ Projects:<br />
 
  - [Information Retrieval on NLTK corpora](https://github.com/kuanmin/projects/tree/master/Information%20Retrieval) (`Python`) <br />
    - In this project, we discuss the implementation of a **Latent Semantic Indexing**-based information retrieval model, and evaluates its performance against the **Vector Space Model** on a collection with 18,828 documents.
-   
+   - We implement a LSI-based retrieval system. We expected it to outperform a traditional model like VSM due to its ability to uncover latent structures in the collection of documents. Unfortunately, our results largely did not agree with our expectations, which prompted a deeper analysis of the collection and the evaluation methodology. We found out that LSI heavily depends on the structure of the collection that it is applied on and it would be interesting to repeat the experiment with a different collection with exisiting relevance judgments.
 
 
 
