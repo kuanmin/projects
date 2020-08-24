@@ -45,6 +45,7 @@ Projects:<br />
   <img width="38%" height="38%" src="https://github.com/kuanmin/projects/blob/master/AI-Based%20Insurance%20Broker/React_01.png"/>
   <img width="38%" height="38%" src="https://github.com/kuanmin/projects/blob/master/AI-Based%20Insurance%20Broker/React_02.png"/>
 </p>
+
  - [Data Infrastructure](https://github.com/kuanmin/projects/blob/master/Data%20Infrastructure/data_pipeline.png) (`SQL` / *PostgreSQL*) <br />
    - While working in the data team of Risk Management department, we deal with financial products and the transactions. Our work is to maintain and improve the data infrastructure of the settlement process. This involves **data pipeline**, **data checks**, **data modeling**, and **data warehouse**. Here are the examples for *data pipeline* and *data model* from our work.
 <p align="center">
