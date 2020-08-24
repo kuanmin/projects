@@ -21,6 +21,15 @@ Projects:<br />
   <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Profitability%20Analysis%20with%20Excel%20VBA/VBA.png">
 </p>
 
+
+ - [Integrating Web Data on Video Games and Companies](https://github.com/kuanmin/projects/tree/master/Integrating%20Web%20Data) (`Python`, `Java`, `XML` / *MapForce*) <br />
+   - In this project, we worked with Python and Java libraries BeautifulSoup, Selenium WebDriver, and Jsoup3. And data analytical skills related to **Data Translation**, **Identity Resolution**, and **Data Fusion** are applied.
+   - We focus on building an integrated database of video games and video game developers which will be informative to video game players and professionals working in the industry alike. Our combined data can offer interesting new visions that can assist on business decision making and drive video game businesses to a success. Simply by exploring and mining this data, one will be able to gain a better understanding of current video game trends. 
+   - For example, our integrated data can provide answers on manifold questions such as ‘Which game platform currently generates the most revenue?’, ‘Which genre types are most popular among the users?’, ’How does game experts’ judgment affect the market sales‘, or ‘How does the revenue of games differ from the worldwide regions?’.
+<p align="center">
+  <img width="50%" height="50%" src="https://github.com/kuanmin/projects/blob/master/Integrating%20Web%20Data/VideoGames_Shema.png"/>
+  <img width="31%" height="31%" src="https://github.com/kuanmin/projects/blob/master/Integrating%20Web%20Data/VideoGames_Shema_2.png"/>
+</p>
  - [AI-Based Insurance Broker](https://github.com/kuanmin/projects/tree/master/AI-Based%20Insurance%20Broker) (`Java`, `JSON`, `JavaScript`, *Java AWT*, *NetBeans*, *MongoDB*, *React*, *Flask*) <br />
    - In this project, data knowledge related to **Ontology engineering** and **Multiple-criteria decision analysis** are applied. 
    - We want to shed light onto the current technological state of the insurance broker industry and how AI may transform it. Furthermore, we provide an Recommender System for dental insurances using the **Technique for Order of Preference by Similarity to Ideal Solution** (TOPSIS), a popular **Multiple Criteria Decision Making Method** (MCDM). In addition we design an architectural model which may serve as an example of how to implement an insurance recommender system as a web application with state of the art technology.
@@ -82,14 +91,7 @@ the free-text diagnosis descriptions into ICD codes.
   <img width="50%" height="50%" src="https://github.com/kuanmin/projects/blob/master/Data%20and%20Matrix/pics/recovered.png">
 </p>
 
- - [Integrating Web Data on Video Games and Companies](https://github.com/kuanmin/projects/tree/master/Integrating%20Web%20Data) (`Python`, `Java`, `XML` / *MapForce*) <br />
-   - In this project, we worked with Python and Java libraries BeautifulSoup, Selenium WebDriver, and Jsoup3. And data analytical skills related to **Data Translation**, **Identity Resolution**, and **Data Fusion** are applied.
-   - We focus on building an integrated database of video games and video game developers which will be informative to video game players and professionals working in the industry alike. Our combined data can offer interesting new visions that can assist on business decision making and drive video game businesses to a success. Simply by exploring and mining this data, one will be able to gain a better understanding of current video game trends. 
-   - For example, our integrated data can provide answers on manifold questions such as ‘Which game platform currently generates the most revenue?’, ‘Which genre types are most popular among the users?’, ’How does game experts’ judgment affect the market sales‘, or ‘How does the revenue of games differ from the worldwide regions?’.
-<p align="center">
-  <img width="50%" height="50%" src="https://github.com/kuanmin/projects/blob/master/Integrating%20Web%20Data/VideoGames_Shema.png"/>
-  <img width="31%" height="31%" src="https://github.com/kuanmin/projects/blob/master/Integrating%20Web%20Data/VideoGames_Shema_2.png"/>
-</p>
+
    
 
 
