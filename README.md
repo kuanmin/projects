@@ -1,4 +1,4 @@
-# <img src="https://github.com/kuanmin/projects/blob/master/welcome.png" alt="LibKGE: A knowledge graph embedding library" width="10%">
+# <img src="https://github.com/kuanmin/projects/blob/master/welcome.png" width="10%">
 Hello! Welcome!
 I am Kuan. And these are the projects related to my work and study. Some are interesting, useful, and delicate, some reach positive and fruitful results, and some are rather challenging. I have learned many skills through the processes and I am very proud of having them in my portfolio.
 
@@ -49,7 +49,7 @@ I am Kuan. And these are the projects related to my work and study. Some are int
   <img width="38%" height="38%" src="https://github.com/kuanmin/projects/blob/master/AI-Based%20Insurance%20Broker/React_02.png"/>
 </p>
 
- - [Data Infrastructure](https://github.com/kuanmin/projects/blob/master/Data%20Infrastructure/data_pipeline.png) (`SQL` / *PostgreSQL*) <br />
+ - [Data Infrastructure](https://github.com/kuanmin/projects/tree/master/Data%20Infrastructure) (`SQL` / *PostgreSQL*) <br />
    - While working in the data team of Risk Management department, we deal with financial products and the transactions. Our work is to maintain and improve the data infrastructure of the settlement process. This involves **data pipeline**, **data checks**, **data modeling**, and **data warehouse**. Here are the examples for *data pipeline* and *data model* from our work.
 <p align="center">
   <img width="70%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Data%20Infrastructure/data_pipeline.png">
