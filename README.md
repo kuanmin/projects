@@ -1,4 +1,4 @@
-# <img src="https://github.com/kuanmin/projects/blob/master/welcome.png" alt="LibKGE: A knowledge graph embedding library" width="80%">
+# <img src="https://github.com/kuanmin/projects/blob/master/welcome.png" alt="LibKGE: A knowledge graph embedding library" width="10%">
 Hello! Welcome!
 I am Kuan. And these are the projects related to my work and study. Some are interesting, useful, and delicate, some reach positive and fruitful results, and some are rather challenging. I have learned many skills through the processes and I am very proud of having them in my portfolio.
 
