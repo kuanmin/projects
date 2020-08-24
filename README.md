@@ -1,5 +1,5 @@
 Hello! Welcome!
-I am Kuan. And these are the projects related to my work and study. Some are interesting, useful, and delicate, some reach positive and fruitful results, and some are rather challenging. I have learned many skills through the processes and I am very proud of having them in my portfolio. Click on the github link above to see codes and example outputs!
+I am Kuan. And these are the projects related to my work and study. Some are interesting, useful, and delicate, some reach positive and fruitful results, and some are rather challenging. I have learned many skills through the processes and I am very proud of having them in my portfolio.
 
 (Click on the project name for reports, presentations, and analyses.)
 
