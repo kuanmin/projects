@@ -15,7 +15,7 @@ Here are the projects related to my work and study. Some are interesting, useful
     - **Granger causality**, **Vector Autoregression model**, **Cross-correlation**, **Wald test**, **mean squared prediction error**
 
 <p align="center">
-  <img width="42%" height="42%" src="https://github.com/kuanmin/projects/blob/master/Thesis%20MSc%20Statistics/formula.png">
+  <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Thesis%20MSc%20Statistics/formula.png">
 </p>
 
 
