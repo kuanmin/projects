@@ -9,8 +9,10 @@ Here are the projects related to my work and study. Some are interesting, useful
    - Our team of actuaries play a vital role in our organization. Our daily works relate to actuarial analysis, including **Modeling**, **Predicting**, **Profit and Surplus Analysis**, **Risk and Uncertainty**, and **Validation**. And Excel has been applied to parts of these tasks along with the use of VBA. Here are some examples from my work.
    - Click on the images to see the originals. From left to right, up to down: *asset sheet* - *assumption* - *profit analysis* - *sensitivity test*
 <p align="center">
-  <img width="42%" height="42%" src="https://github.com/kuanmin/projects/blob/master/SEM/model.png">
-  <img width="42%" height="42%" src="https://github.com/kuanmin/projects/blob/master/SEM/SEM_structure.png">
+  <img width="60%" height="60%" src="https://github.com/kuanmin/projects/blob/master/SEM/SEM_structure.png">
+</p>
+<p align="center">
+  <img width="60%" height="60%" src="https://github.com/kuanmin/projects/blob/master/SEM/model.png">
 </p>
  
 
