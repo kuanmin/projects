@@ -6,8 +6,7 @@ Here are the projects related to my work and study. Some are interesting, useful
 
 
  - [SEM-based Customer Contentment Analysis on Mass Merchandiser](https://github.com/kuanmin/projects/tree/master/SEM) (`SAS` / *SAS*) <br />
-   - Our team of actuaries play a vital role in our organization. Our daily works relate to actuarial analysis, including **Modeling**, **Predicting**, **Profit and Surplus Analysis**, **Risk and Uncertainty**, and **Validation**. And Excel has been applied to parts of these tasks along with the use of VBA. Here are some examples from my work.
-   - Click on the images to see the originals. From left to right, up to down: *asset sheet* - *assumption* - *profit analysis* - *sensitivity test*
+   - **Structural equation modeling** (**SEM**) is a powerful, multivariate technique found increasingly in scientific investigations to test and evaluate multivariate causal relationships. SEMs differ from other modeling approaches as they test the direct and indirect effects on pre-assumed causal relationships. 
 <p align="center">
   <img width="60%" height="60%" src="https://github.com/kuanmin/projects/blob/master/SEM/SEM_structure.png">
 </p>
