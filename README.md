@@ -8,7 +8,7 @@ Here are the projects related to my work and study. Some are interesting, useful
  - [SEM-based Customer Contentment Analysis on Mass Merchandiser](https://github.com/kuanmin/projects/tree/master/SEM) (`SAS` / *SAS*) <br />
    - **Structural equation modeling** (**SEM**) is a powerful, multivariate technique found increasingly in scientific investigations to test and evaluate multivariate causal relationships. SEMs differ from other modeling approaches as they test the direct and indirect effects on pre-assumed causal relationships. 
 <p align="center">
-  <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/SEM/SEM.png">
+  <img width="100%" height="100%" src="https://github.com/kuanmin/projects/blob/master/SEM/SEM.png">
 </p>
 <p align="center">
   <img width="60%" height="60%" src="https://github.com/kuanmin/projects/blob/master/SEM/model.png">
