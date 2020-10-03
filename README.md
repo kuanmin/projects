@@ -19,7 +19,7 @@ Here are the projects related to my work and study. Some are interesting, useful
 
 
 
- - [Forecasting of Time Series based on VAR and Maximum Cross-correlation](https://github.com/kuanmin/projects/tree/master/Thesis%20MSc%20Statistics) (`R`) (Master Thesis)<br />
+ - [Forecasting of Time Series based on VAR and Maximum Cross-correlation](https://github.com/kuanmin/projects/tree/master/Thesis%20MSc%20Statistics) (`R`) (Master Thesis - Statistics)<br />
     - Master Thesis - **Forecasting of Time Series based on Vector Autoregression Model and Maximum Cross-correlation**
     - The selection of methods plays an important role in the prediction based on time-series data. In most literature reviews, the vector autoregression model (VAR) has been a popular choice for prediction for many years. There are some disadvantages of this method: (**i**) **the model selection procedure can be really complex**; (**ii**) **the model assumptions are difficult to validate**; (**iii**) **it requires a large amount of data for model building**. The objective of this thesis is to provide an new multivariate-time series prediction method based on the concept of maximum cross-correlation. It requires merely the assumption of “fair linearity” between two time series under investigation. This thesis also compares the proposed method to the vector autoregressive (VAR) model which is widely used in time series analysis with the expectation to provide a new prediction method in practical data analysis. We use data from the Taiwan equity funds and the portfolio of those funds to compare the prediction performances of these two methods. Using the **mean prediction squared errors** (**MPSE**) as assessment criterion, the prediction method based on the maximum cross-correlation best performs under all prediction periods.
     - **Granger causality**, **Vector Autoregression model** (**VAR model**), **Cross-correlation**, **Wald test**, **mean prediction squared error** (**MPSE**)
@@ -29,7 +29,9 @@ Here are the projects related to my work and study. Some are interesting, useful
 </p>
 
 
- - [Enhancement of LibKGE](https://github.com/kuanmin/kge-work) (`Python`) (ongoing project / my thesis work)<br />
+ - [Enhancement of LibKGE](https://github.com/kuanmin/projects/tree/master/Thesis%20MSc%20Data%20Science) (`Python`) (Master Thesis - Data Science)<br />
+    - Master Thesis - **Revisiting Ensembles for Knowledge Graph Embeddings**
+    - We study the ensembles in KGEs with better trained baselines. Additionally, fine-tune and joint learning were further experimented on ensembles. The study shows that, although ensembles generally outperformed single KGE models with better trained baselines, fine-tuning has shown minor progress comparing to established ensembles. Also, the approaches by joint learning lead to outputs inferior to established ensembles with the same training specification.
     - Open source LibKGE framework is a PyTorch-based library for efficient training, evaluation, and hyperparameter optimization of [knowledge graph embeddings](https://ieeexplore.ieee.org/document/8047276) (KGE). The key goal is to foster reproducible research into (as well as meaningful comparisons between) KGE models and training methods. As the authors argue in [ICLR 2020 paper](https://openreview.net/forum?id=BkxSmlBFvr), the choice of training strategy and hyperparameters are very influential on model performance, often more so than the model class itself.
     - I implement new functions to LibKGE, which will allow the New package to run training and validation, not just on single KGE model, but *multiple models* in one process, so to be able to performe **joint training** and **alternative training models**.
     
