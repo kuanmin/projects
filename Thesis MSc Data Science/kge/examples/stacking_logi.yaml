@@ -1,0 +1,41 @@
+train.abort_on_nan: True
+train.auto_correct: True
+
+job.type: train
+dataset.name: toy
+model: logisticregressionensemble # logisticregressionensemble averageensemble
+train.type: 1vsAll  # negative_sampling  KvsAll  1vsAll 
+train.batch_size: 512
+
+
+eval.mix_score: False
+valid.every: 1
+
+freeze_param: '' # can be all, meta, base, or ''
+
+train.max_epochs: 20
+train.abort_on_nan: True
+train.auto_correct: True
+
+logisticregressionensemble:
+  class_name: LogisticRegressionEnsemble
+  meta_optimizer: Adam # can be Adam or Adagrad
+  meta_optimizer_args:
+    lr: 0.0001 # the default value from sklearn.linear_model.SGDClassifier  alphafloat, default=0.0001
+    # weight_decay: 0.0
+  lr_scalar: 10.0
+  updata_lr: False
+  updata_lr_scalar: True
+  base:
+  - examples/toy-rescal-train.yaml
+  - examples/toy-complex-train.yaml
+  # meta:
+  #   pretrain:
+  #     model_filename: local/experiments/ensemble_model_test/checkpoint_best.pt
+
+
+
+
+
+
+

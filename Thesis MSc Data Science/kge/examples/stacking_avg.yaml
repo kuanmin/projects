@@ -1,0 +1,12 @@
+job.type: train
+dataset.name: toy
+model: averageensemble
+train.type: 1vsAll # negative_sampling  KvsAll  1vsAll
+
+freeze_param: '' # can be all meta base or ''
+
+averageensemble:
+  class_name: AverageEnsemble
+  base:
+  - examples/toy-distmult-train.yaml
+  - examples/toy-rescal-train.yaml
