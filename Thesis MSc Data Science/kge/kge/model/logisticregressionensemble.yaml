@@ -1,0 +1,16 @@
+
+logisticregressionensemble:
+  class_name: LogisticRegressionEnsemble
+  meta_optimizer: Adagrad
+  meta_optimizer_args:
+    +++: +++
+  lr_scalar: 10.0
+  updata_lr: False
+  updata_lr_scalar: False
+  base:
+  - examples/toy-rescal-train.yaml
+  - examples/toy-complex-train.yaml
+
+  meta:
+    pretrain:
+      model_filename: ''

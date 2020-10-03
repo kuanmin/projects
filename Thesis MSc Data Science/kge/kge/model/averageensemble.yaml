@@ -1,0 +1,10 @@
+# import: [lookup_embedder]
+
+averageensemble:
+  class_name: AverageEnsemble
+  updata_lr_scalar: False
+  base:
+  - examples/toy-rescal-train.yaml
+  - examples/toy-complex-train.yaml
+  lr_scalar: 10.0
+  updata_lr_scalar: False
