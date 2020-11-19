@@ -3,7 +3,7 @@
 ====
 Here are some **projects and works** and **examples for machine learning**. Some are interesting, useful, and delicate, some reach positive and fruitful results, and some are rather challenging. I have learned many skills through the processes and I am very proud of having them in my portfolio.
 
-**Examples for machine learning**
+**Examples for Machine Learning**
 -------
 - [link](https://drive.google.com/drive/folders/1DeMCJPetOc0Aq5RZEnFBCb7n4_ozlXHO?usp=sharing)
 (Please click "**Google Caloboratory**" to open the file and run **Jupyter Notebook**.)
