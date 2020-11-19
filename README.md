@@ -7,6 +7,7 @@ Here are some **projects and works** and **examples for machine learning**. Some
 
 
 **projects and works**
+
 (Click on the project name for reports, presentations, and analyses.)
 
 
