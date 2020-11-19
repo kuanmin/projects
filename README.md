@@ -6,7 +6,7 @@ Here are some **projects and works** and **examples for machine learning**. Some
 **Examples for machine learning**
 -------
 - [link](https://drive.google.com/drive/folders/1DeMCJPetOc0Aq5RZEnFBCb7n4_ozlXHO?usp=sharing)
-- (Please click "**Google Caloboratory**" to open the file and run **Jupyter Notebook**.)
+(Please click "**Google Caloboratory**" to open the file and run **Jupyter Notebook**.)
 
 **Projects & Works**
 -------
