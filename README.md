@@ -4,12 +4,12 @@
 Here are some **projects and works** and **examples for machine learning**. Some are interesting, useful, and delicate, some reach positive and fruitful results, and some are rather challenging. I have learned many skills through the processes and I am very proud of having them in my portfolio.
 
 **examples for machine learning**
-====
+-------
 - [link](https://drive.google.com/drive/folders/1DeMCJPetOc0Aq5RZEnFBCb7n4_ozlXHO?usp=sharing)
 
 
 **projects and works**
-====
+-------
 
 (Click on the project name for reports, presentations, and analyses.)
 
