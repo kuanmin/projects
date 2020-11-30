@@ -5,6 +5,7 @@ Here are some **projects and works** and **examples for machine learning**. Some
 
 **Examples for Actuarial Data Science**
 -------
+- link
 
 **Examples for Machine Learning**
 -------
