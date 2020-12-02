@@ -6,18 +6,23 @@ Here are some **projects and works** and **examples for machine learning**. Some
 **Examples for Actuarial Data Science**
 -------
 - [x] use CNN to detect anomalies in mortality rates
-- use XGBoost and AdaBoost to predict the probability of claims occurrence
-- use GLM and ML for claim frequency modeling
-- use RNN to predict mortality rate
-- use GLM's MLE to speed up NN fitting
-- use XAI for claim frequency modeling
-- NLP application in insurance
-- apply dimension reduction and clustering on client data
+- [x] use XGBoost and AdaBoost to predict the probability of claims occurrence
+- [x] use GLM and ML for claim frequency modeling
+- [x] use RNN to predict mortality rate
+- [x] use GLM's MLE to speed up NN fitting
+- [x] use XAI for claim frequency modeling
+- [x] NLP application in insurance
+- [x] apply dimension reduction and clustering on client data
 - link
 
 **Examples for Machine Learning**
 -------
-- **data cleaning**/ **feature extraction**/ **modeling**/ **validation**/ **classification**/ **clustering**
+- [x] data cleaning
+- [x] feature extraction
+- [x] modeling
+- [x] validation
+- [x] classification
+- [x] clustering
 - [link](https://drive.google.com/drive/folders/1DeMCJPetOc0Aq5RZEnFBCb7n4_ozlXHO?usp=sharing)
 (Please open the file with "**Google Caloboratory**" and run on **Jupyter Notebook**.)
 
