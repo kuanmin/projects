@@ -13,7 +13,7 @@ Here are some **projects and works** and **examples for machine learning**. Some
 - use XAI for claim frequency modeling
 - NLP application in insurance
 - apply dimension reduction and clustering on client data
--- link
+- link
 
 **Examples for Machine Learning**
 -------
