@@ -11,7 +11,7 @@ Here are some **projects and works** and **examples for machine learning**. Some
 - [x] use RNN to predict mortality rate
 - [x] use GLM's MLE to speed up NN fitting
 - [x] use XAI for claim frequency modeling
-- [x] NLP application in insurance
+- [x] NLP application in insurance data
 - [x] apply dimension reduction and clustering on client data
 - link
 
