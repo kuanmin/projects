@@ -5,6 +5,14 @@ Here are some **projects and works** and **examples for machine learning**. Some
 
 **Examples for Actuarial Data Science**
 -------
+- use CNN to detect anomalies in mortality rates 運用神經網路偵測死亡率異常
+- use XGBoost and AdaBoost to predict the probability of claims occurrence 運用集成學習預測理賠機率
+- use GLM and ML for claim frequency modeling 運用GLM與機器學習建立理賠頻率模型
+- use RNN to predict mortality rate 運用神經網路預測死亡率異常
+- use GLM's MLE to speed up NN fitting 結合GLM與神經網路進行模型配適
+- use XAI for claim frequency modeling 運用可解構AI建立理賠頻率模型
+- NLP application in insurance 保險領域的NLP應用
+- apply dimension reduction and clustering on client data 運用非監督式學習於保險資料之降維與聚類
 - link
 
 **Examples for Machine Learning**
