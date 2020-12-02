@@ -5,7 +5,7 @@ Here are some **projects and works** and **examples for machine learning**. Some
 
 **Examples for Actuarial Data Science**
 -------
-- use CNN to detect anomalies in mortality rates
+- [x] use CNN to detect anomalies in mortality rates
 - use XGBoost and AdaBoost to predict the probability of claims occurrence
 - use GLM and ML for claim frequency modeling
 - use RNN to predict mortality rate
