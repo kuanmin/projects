@@ -9,7 +9,7 @@ Here are some **projects and works** and **examples for machine learning**. Some
 
 **Examples for Machine Learning**
 -------
-- data cleaning/ feature extraction/ modeling/ validation/ classification / clustering
+- **data cleaning**/ **feature extraction**/ **modeling**/ **validation**/ **classification**/ **clustering**
 - [link](https://drive.google.com/drive/folders/1DeMCJPetOc0Aq5RZEnFBCb7n4_ozlXHO?usp=sharing)
 (Please open the file with "**Google Caloboratory**" and run on **Jupyter Notebook**.)
 
