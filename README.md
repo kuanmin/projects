@@ -11,7 +11,7 @@ Here are some **projects and works** and **examples for actuarial data science a
 - [x] use RNN to predict mortality rate
 - [x] use GLM's MLE to speed up NN fitting
 - [x] use XAI for claim frequency modeling
-- [x] NLP application in insurance data
+- [x] NLP application in client data
 - [x] apply dimension reduction and clustering on client data
 - link
 
