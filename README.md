@@ -3,7 +3,7 @@
 ====
 Here are some **projects and works** and **examples for actuarial data science and machine learning**. Some are interesting, useful, and delicate, some reach positive and fruitful results, and some are rather challenging. I have learned many skills through the processes and I am very proud of having them in my portfolio.
 
-**Examples for Actuarial Data Science**
+**Examples for Actuarial Data Science by Swiss Association of Actuaries**
 -------
 - [x] use CNN to detect anomalies in mortality rates
 - [x] use XGBoost and AdaBoost to predict the probability of claims occurrence
@@ -13,7 +13,7 @@ Here are some **projects and works** and **examples for actuarial data science a
 - [x] use XAI for claim frequency modeling
 - [x] NLP application in client data
 - [x] apply dimension reduction and clustering on client data
-- link
+- [link](https://www.actuarialdatascience.org/ADS-Tutorials)
 
 **Examples for Machine Learning**
 -------
