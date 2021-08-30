@@ -26,7 +26,7 @@ Here are some **projects and works** and **examples for actuarial data science a
 - [x] k-nearest neighbor (KNN)
 - [x] Bayesian network
 - [x] support vector machine (SVM)
-- [link](https://drive.google.com/drive/folders/1DeMCJPetOc0Aq5RZEnFBCb7n4_ozlXHO?usp=sharing)
+- [link](https://drive.google.com/drive/u/1/folders/1CWdUKd6PY8Q9k2DJ6JzWQ95wn08O6DpR)
 (Please open the file with "**Google Caloboratory**" and run on **Jupyter Notebook**.)
 
 **Projects & Works**
