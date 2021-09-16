@@ -45,7 +45,7 @@ Here are some **projects and works** and **examples for actuarial data science a
       3. While being asked "Please enter the file name for Smith-Wilson risk free rate and then press ENTER:", enter “sw_col.xls” and then press ENTER.
     - **IFRS 17**, **Insurance Capital Standards** (**ICS 2.0**), **Model Building**, **Discount Rate**
 <p align="center">
-  <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Thesis%20MSc%20Statistics/formula.png">
+  <img width="80%" height="80%" src="https://github.com/kuanmin/tii_data/blob/main/ezgif.com-gif-maker.gif">
 </p>
 
  - [SEM-based Customer Contentment Analysis on Mass Merchandiser](https://github.com/kuanmin/projects/tree/master/SEM) (`SAS` / *SAS*) <br />
@@ -68,7 +68,7 @@ Here are some **projects and works** and **examples for actuarial data science a
     - **Granger causality**, **Vector Autoregression model** (**VAR model**), **Cross-correlation**, **Wald test**, **mean prediction squared error** (**MPSE**)
 
 <p align="center">
-  <img width="80%" height="80%" src="https://github.com/kuanmin/tii_data/blob/main/ezgif.com-gif-maker.gif">
+  <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Thesis%20MSc%20Statistics/formula.png">
 </p>
 
 
