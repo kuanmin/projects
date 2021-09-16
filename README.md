@@ -35,9 +35,10 @@ Here are some **projects and works** and **examples for actuarial data science a
 (Click on the project name for reports, presentations, and analyses.)
 
 
- - [Discount Rate Generator for IFRS 17 and Insurance Capital Standards (ICS 2.0)](https://github.com/kuanmin/projects/tree/master/Thesis%20MSc%20Statistics) (`Python`) (Master Thesis - Statistics)<br />
+ - [Discount Rate Generator for IFRS 17 and Insurance Capital Standards (ICS 2.0)](https://github.com/kuanmin/projects/tree/master/Thesis%20MSc%20Statistics) (`Python`) (Industrial Implementation in Taiwan)<br />
     - Master Thesis - **Forecasting of Time Series based on Vector Autoregression Model and Maximum Cross-correlation**
-    - The selection of methods plays an important role in the prediction based on time-series data. In most literature reviews, the vector autoregression model (VAR) has been a 
+    - In Insurance Capital Standards (ICS 2.0), liability portfolios are separated into three “buckets” of decreasing degrees of asset-liability cash-flow matching and consequent recognition of spread. The top bucket uses a spread based on the insurer’s own assets, the middle bucket uses the International Association of Insurance Supervisors’ (IAIS’s) prescribed spreads applied to the insurer’s own fixed income asset mix, and the general bucket uses prescribed spreads based on a reference portfolio of fixed income assets. The top bucket uses an “application ratio” (percentage of spread recognized in the discount rate) of 100 percent, the middle bucket 90 percent, and the general bucket 80 percent.
+    - I built the generator for all insurance companies to comply and implement on their liability valuation.
     - How to use it?
       1. Download the files “sw_col.xls” and “generator.exe” using the [LINK](https://drive.google.com/drive/folders/1olzbokf25WdQlyB_endGsXgWyBAeL1JF?usp=sharing), and have them in the same folder.
       2. Execute file “generator.exe”, and follow the instruction in each step.
@@ -45,7 +46,7 @@ Here are some **projects and works** and **examples for actuarial data science a
 
     
     
-    - **Granger causality**, **Vector Autoregression model** (**VAR model**), **Cross-correlation**, **Wald test**, **mean prediction squared error** (**MPSE**)
+    - **IFRS 17**, **Insurance Capital Standards** (**ICS 2.0**), **Model Building**, **Discount Rate**
 
 
  - [SEM-based Customer Contentment Analysis on Mass Merchandiser](https://github.com/kuanmin/projects/tree/master/SEM) (`SAS` / *SAS*) <br />
