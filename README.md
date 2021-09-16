@@ -35,7 +35,7 @@ Here are some **projects and works** and **examples for actuarial data science a
 (Click on the project name for reports, presentations, and analyses.)
 
 
- - [Forecasting of Time Series based on VAR and Maximum Cross-correlation](https://github.com/kuanmin/projects/tree/master/Thesis%20MSc%20Statistics) (`Python`) (Master Thesis - Statistics)<br />
+ - [Discount Rate Generator for IFRS 17 and Insurance Capital Standards (ICS 2.0)](https://github.com/kuanmin/projects/tree/master/Thesis%20MSc%20Statistics) (`Python`) (Master Thesis - Statistics)<br />
     - Master Thesis - **Forecasting of Time Series based on Vector Autoregression Model and Maximum Cross-correlation**
     - The selection of methods plays an important role in the prediction based on time-series data. In most literature reviews, the vector autoregression model (VAR) has been a 
     - How to use it?
