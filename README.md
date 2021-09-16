@@ -39,17 +39,13 @@ Here are some **projects and works** and **examples for actuarial data science a
     - Master Thesis - **Forecasting of Time Series based on Vector Autoregression Model and Maximum Cross-correlation**
     - The selection of methods plays an important role in the prediction based on time-series data. In most literature reviews, the vector autoregression model (VAR) has been a 
     - How to use it?
-    --- Download the files “sw_col.xls” and “generator.exe” using the [LINK](https://drive.google.com/drive/folders/1olzbokf25WdQlyB_endGsXgWyBAeL1JF?usp=sharing), and have them in the same folder.
-    --- Execute file “generator.exe”, and follow the instruction in each step.
-    --- While being asked "Please enter the file name for Smith-Wilson risk free rate and then press ENTER:", enter “sw_col.xls” and then press ENTER.
+      1. Download the files “sw_col.xls” and “generator.exe” using the [LINK](https://drive.google.com/drive/folders/1olzbokf25WdQlyB_endGsXgWyBAeL1JF?usp=sharing), and have them in the same folder.
+      2. Execute file “generator.exe”, and follow the instruction in each step.
+      3. While being asked "Please enter the file name for Smith-Wilson risk free rate and then press ENTER:", enter “sw_col.xls” and then press ENTER.
 
     
     
     - **Granger causality**, **Vector Autoregression model** (**VAR model**), **Cross-correlation**, **Wald test**, **mean prediction squared error** (**MPSE**)
-
-<p align="center">
-  <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Thesis%20MSc%20Statistics/formula.png">
-</p>
 
 
  - [SEM-based Customer Contentment Analysis on Mass Merchandiser](https://github.com/kuanmin/projects/tree/master/SEM) (`SAS` / *SAS*) <br />
