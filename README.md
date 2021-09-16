@@ -43,11 +43,10 @@ Here are some **projects and works** and **examples for actuarial data science a
       1. Download the files “sw_col.xls” and “generator.exe” using the [LINK](https://drive.google.com/drive/folders/1olzbokf25WdQlyB_endGsXgWyBAeL1JF?usp=sharing), and have them in the same folder.
       2. Execute file “generator.exe”, and follow the instruction in each step.
       3. While being asked "Please enter the file name for Smith-Wilson risk free rate and then press ENTER:", enter “sw_col.xls” and then press ENTER.
-
-    
-    
     - **IFRS 17**, **Insurance Capital Standards** (**ICS 2.0**), **Model Building**, **Discount Rate**
-
+<p align="center">
+  <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Thesis%20MSc%20Statistics/formula.png">
+</p>
 
  - [SEM-based Customer Contentment Analysis on Mass Merchandiser](https://github.com/kuanmin/projects/tree/master/SEM) (`SAS` / *SAS*) <br />
    - Mass merchandisers need to provide the correct information about their products and services to customers. Thus, it is necessary to have the information to enable customers to meet their real needs and to discover the best way to satisfy and retain customers, as well as to follow consumer sentiment, which can provide early warnings of market conduct and performance. This study seeks to understand ways to retain customers and to identify their levels of contentment with mass merchandisers. The research also focused on helping managers assess and identify the major strengths of the critical success factors of merchandisers, so that the company can sustain and maintain the success it has achieved in the market.
@@ -69,7 +68,7 @@ Here are some **projects and works** and **examples for actuarial data science a
     - **Granger causality**, **Vector Autoregression model** (**VAR model**), **Cross-correlation**, **Wald test**, **mean prediction squared error** (**MPSE**)
 
 <p align="center">
-  <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Thesis%20MSc%20Statistics/formula.png">
+  <img width="80%" height="80%" src="https://github.com/kuanmin/tii_data/blob/main/ezgif.com-gif-maker.gif">
 </p>
 
 
