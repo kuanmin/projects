@@ -36,8 +36,8 @@ Here are some **projects and works** and **examples for actuarial data science a
 
 
  - [Discount Rate Generator for IFRS 17 and Insurance Capital Standards (ICS 2.0)](https://github.com/kuanmin/projects/tree/master/Thesis%20MSc%20Statistics) (`Python`) (Industrial Implementation in Taiwan)<br />
-    - IFRS 17 is a principles-based standard that requires significant interpretation before it can be implemented in practice. A key consideration is the discount rate to be used in measuring liabilities, among other related financial assumptions. As for Insurance Capital Standards (ICS 2.0), liability portfolios are separated into three “buckets” of decreasing degrees of asset-liability cash-flow matching and consequent recognition of spread.
-    - I help all insurance companies in Taiwan with tasks in complying with IFRS / ICS regulations by modeling and implementing risk-free interest rate through Python codes.
+    - **IFRS 17** is a principles-based standard that requires significant interpretation before it can be implemented in practice. A key consideration is **the discount rate** to be used in measuring liabilities, among other related financial assumptions. As for **Insurance Capital Standards** (**ICS 2.0**), liability portfolios are separated into three “buckets” of decreasing degrees of asset-liability cash-flow matching and consequent recognition of spread.
+    - I help all insurance companies in Taiwan with tasks in complying with **IFRS** / **ICS** regulations by modeling and implementing **risk-free interest rate** through Python codes.
     - How to use it?
       1. Download the files “sw_col.xls” and “generator.exe” using the [LINK](https://drive.google.com/drive/folders/1olzbokf25WdQlyB_endGsXgWyBAeL1JF?usp=sharing), and have them in the same folder.
       2. Execute file “generator.exe”, and follow the instruction in each step.
