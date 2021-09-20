@@ -42,7 +42,7 @@ Here are some **projects and works** and **examples for actuarial data science a
       1. Download the files “sw_col.xls” and “generator.exe” using the [LINK](https://drive.google.com/drive/folders/1olzbokf25WdQlyB_endGsXgWyBAeL1JF?usp=sharing), and have them in the same folder.
       2. Execute file “generator.exe”, and follow the instruction in each step.
       3. While being asked "Please enter the file name for Smith-Wilson risk free rate and then press ENTER:", enter “sw_col.xls” and then press ENTER.
-    - **IFRS 17**, **Insurance Capital Standards** (**ICS 2.0**), **Model Building**, **Discount Rate**
+    - **IFRS 17**, **Insurance Capital Standards** (**ICS 2.0**), **Model Building**, **Discount Rate**, **GUI**
 <p align="center">
   <img width="80%" height="80%" src="https://github.com/kuanmin/tii_data/blob/main/present.gif">
 </p>
