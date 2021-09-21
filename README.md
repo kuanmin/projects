@@ -47,6 +47,20 @@ Here are some **projects and works** and **examples for actuarial data science a
   <img width="80%" height="80%" src="https://github.com/kuanmin/tii_data/blob/main/present.gif">
 </p>
 
+
+ - [Asset and Liability Modeling for Solvency Test](https://github.com/kuanmin/projects/blob/master/Modeling/Matlab_01.png) (`MATLAB` / *MATLAB*) <br />
+   - Build models such as interest rate, exchange rate, stock price, and rent for asset and liability performance, and forecast and analyze the future performance.
+   - Follow with analyses on product providing for a guaranteed minimum benefit, and various items of solvency stress tests.
+   - **Solvency Test**, **Insurance Capital Standards** (**ICS 2.0**), **Model Building**, **Discount Rate**, **GUI**
+   
+<p align="center">
+  <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Modeling/Matlab_01.png">
+</p>
+
+
+
+
+
  - [SEM-based Customer Contentment Analysis on Mass Merchandiser](https://github.com/kuanmin/projects/tree/master/SEM) (`SAS` / *SAS*) <br />
    - Mass merchandisers need to provide the correct information about their products and services to customers. Thus, it is necessary to have the information to enable customers to meet their real needs and to discover the best way to satisfy and retain customers, as well as to follow consumer sentiment, which can provide early warnings of market conduct and performance. This study seeks to understand ways to retain customers and to identify their levels of contentment with mass merchandisers. The research also focused on helping managers assess and identify the major strengths of the critical success factors of merchandisers, so that the company can sustain and maintain the success it has achieved in the market.
    - In the present work, we study the causal effects from buildings and service to satisfaction, contentment and impression for Costco, Carrefour, and a.mart, using **reliability analysis**, **confirmatory factory analysis** (**CFA**), and **structural equation modeling** (**SEM**) analysis.
