@@ -48,7 +48,7 @@ Here are some **projects and works** and **examples for actuarial data science a
 </p>
 
 
- - [Asset and Liability Modeling for Solvency Test](https://github.com/kuanmin/projects/blob/master/Modeling/Matlab_01.png) (`MATLAB` / *MATLAB*) <br />
+ - [Asset and Liability Modeling for Solvency Test](https://github.com/kuanmin/projects/blob/master/Modeling/Matlab_01.png) (`MATLAB` / *MATLAB*) (Industrial Implementation)<br />
    - Build models such as interest rate, exchange rate, stock price, and rent for asset and liability performance, and forecast and analyze the future performance.
    - Follow with analyses on product providing for a guaranteed minimum benefit, and various items of solvency tests.
    - **Solvency Test**, **Model Building**, **Forecast**, **GUI**
