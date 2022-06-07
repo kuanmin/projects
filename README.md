@@ -185,7 +185,7 @@ the free-text diagnosis descriptions into ICD codes.
 
  - Projects from **Allianz Global Benefit in Germany**
    - [x] **Apply latent semantic analysis to recover 83% of the dataset**
-     - Due to a great amount of missing values for disease codes, further analyses are not applicable. Using MIMIC from MIT Lab, latent semantic analysis (LSA) was applied to recover the missing values. With this approach, the amount of available data increased by 83%.
+   - Due to a great amount of missing values for disease codes, further analyses are not applicable. Using MIMIC from MIT Lab, latent semantic analysis (LSA) was applied to recover the missing values. With this approach, the amount of available data increased by 83%.
    - [x] **Apply text similarity algorithm to integrate 95% of data**
      - Due to high-level data inconsistency in clients' demographic information and medical records, i.e., same meaning but different words or spelling, manpower for correction process was in high demand. Text similarity algorithms were applied; then 95% of data were integrated.
    - [x] **Script in VBA and Python to 100% automatize format transformations**
