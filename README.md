@@ -16,7 +16,7 @@ Here are some **projects and works** and **examples for actuarial data science a
 - [link](https://www.actuarialdatascience.org/ADS-Tutorials)
 -->
 
-**Machine Learning Demos**
+**Homemade Machine Learning Demos**
 -------
 - [x] data cleaning
 - [x] feature extraction
