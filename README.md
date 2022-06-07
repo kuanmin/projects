@@ -183,14 +183,14 @@ the free-text diagnosis descriptions into ICD codes.
   <img width="50%" height="50%" src="https://github.com/kuanmin/projects/blob/master/Data%20and%20Matrix/pics/recovered.png">
 </p>
 
- - Projects from Allianz in Germany.
-   - **Apply latent semantic analysis to recover 83% of the dataset**
+ - Projects from **Allianz Global Benefit in Germany**
+   - [x] **Apply latent semantic analysis to recover 83% of the dataset**
      - Due to a great amount of missing values for disease codes, further analyses are not applicable. Using MIMIC from MIT Lab, latent semantic analysis (LSA) was applied to recover the missing values. With this approach, the amount of available data increased by 83%.
-   - **Apply text similarity algorithm to integrate 95% of data**
+   - [x] **Apply text similarity algorithm to integrate 95% of data**
      - Due to high-level data inconsistency in clients' demographic information and medical records, i.e., same meaning but different words or spelling, manpower for correction process was in high demand. Text similarity algorithms were applied; then 95% of data were integrated.
-   - **Script in VBA and Python to 100% automatize format transformations**
+   - [x] **Script in VBA and Python to 100% automatize format transformations**
      - Reporting process involved extracting data from database, transforming into reporting format, and uploading to re-porting API. To improve efficiency, Scripting in VBA and Python was applied to 100% automatize format trans-formations.
-   - **Build international databases in healthcare related topics to strengthen the capacity for client anal-ysis and marketing strategy**
+   - [x] **Build international databases in healthcare related topics to strengthen the capacity for client anal-ysis and marketing strategy**
      - To strengthen the capacity for client analysis and marketing strategy, databases were built with topics in health ex-penditure, claim amount, disease, and industry, according to multiple industrial classification standards and public health databases, i.e., WHO, OECD, MIMIC from MIT Lab.
 
 
