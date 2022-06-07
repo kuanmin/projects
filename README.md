@@ -1,7 +1,7 @@
 # <img src="https://github.com/kuanmin/projects/blob/master/welcome.png" width="10%">
 **Hello, Welcome!** I am Kuan.<br />
 ====
-Here are some **projects and works** and **examples for actuarial data science and machine learning**. Some are interesting, useful, and delicate, some reach positive and fruitful results, and some are rather challenging. I have learned many skills through the processes and I am very proud of having them on my portfolio.
+Here are some **projects and works** and **homemade demos for machine learning**. Some are interesting, useful, and delicate, some reach positive and fruitful results, and some are rather challenging. I have learned many skills through the processes and I am very proud of having them on my portfolio.
 
 **`Educational Background`**
 - **Master's Program in Data Science**, *University of Mannheim, Mannheim, Germany*.([website](https://www.uni-mannheim.de/en/academics/programs/mannheim-master-in-data-science/))
