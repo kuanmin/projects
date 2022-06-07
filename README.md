@@ -19,7 +19,7 @@ Here are some **projects and works** and **examples for actuarial data science a
 **Skill & Knowledge applied**
 -------
 - [x] Programming
-  - Python (numpy, scipy, pandas, statsmodels, matplotlib, seaborn, scikit-learn, pytorch, nltk), R (dplyr, ggplot2, shiny), SQL, Excel VBA, Linux Bash
+- Python (numpy, scipy, pandas, statsmodels, matplotlib, seaborn, scikit-learn, pytorch, nltk), R (dplyr, ggplot2, shiny), SQL, Excel VBA, Linux Bash
 
 
 
