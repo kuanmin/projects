@@ -3,7 +3,7 @@
 ====
 Here are some **projects and works** and **examples for actuarial data science and machine learning**. Some are interesting, useful, and delicate, some reach positive and fruitful results, and some are rather challenging. I have learned many skills through the processes and I am very proud of having them in my portfolio.
 
-`**Educational Background**`
+**`Educational Background`**
 - **Master's Program in Data Science**, University of Mannheim, Mannheim, Germany.([website](https://www.uni-mannheim.de/en/academics/programs/mannheim-master-in-data-science/))
 - **Master's Program in Statistics**, National Chengchi University, Taipei, Taiwan. ([website](https://stat.nccu.edu.tw/))
 
