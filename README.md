@@ -35,6 +35,16 @@ Here are some **projects and works** and **examples for actuarial data science a
 
 (Click on the project name for reports, presentations, and analyses.)
 
+ - From **Allianz Global Benefit in Germany**
+   - [x] **Apply latent semantic analysis to recover 83% of the dataset**
+     - Due to a great amount of missing values for disease codes, further analyses are not applicable. Using MIMIC from MIT Lab, latent semantic analysis (LSA) was applied to recover the missing values. With this approach, the amount of available data increased by 83%.
+   - [x] **Apply text similarity algorithm to integrate 95% of data**
+     - Due to high-level data inconsistency in clients' demographic information and medical records, i.e., same meaning but different words or spelling, manpower for correction process was in high demand. Text similarity algorithms were applied; then 95% of data were integrated.
+   - [x] **Script in VBA and Python to 100% automatize format transformations**
+     - Reporting process involved extracting data from database, transforming into reporting format, and uploading to re-porting API. To improve efficiency, Scripting in VBA and Python was applied to 100% automatize format trans-formations.
+   - [x] **Build international databases in healthcare related topics to strengthen the capacity for client anal-ysis and marketing strategy**
+     - To strengthen the capacity for client analysis and marketing strategy, databases were built with topics in health ex-penditure, claim amount, disease, and industry, according to multiple industrial classification standards and public health databases, i.e., WHO, OECD, MIMIC from MIT Lab.
+
 
  - [Discount Rate Generator for IFRS 17 and Insurance Capital Standards (ICS 2.0)](https://drive.google.com/drive/folders/1olzbokf25WdQlyB_endGsXgWyBAeL1JF?usp=sharing) (`Python`) (Industrial Implementation)<br />
     - **IFRS 17** is a principles-based standard that requires significant interpretation before it can be implemented in practice. A key consideration is **the discount rate** to be used in measuring liabilities, among other related financial assumptions. As for **Insurance Capital Standards** (**ICS 2.0**), liability portfolios are separated into three “buckets” of decreasing degrees of asset-liability cash-flow matching and consequent recognition of spread.
@@ -183,15 +193,7 @@ the free-text diagnosis descriptions into ICD codes.
   <img width="50%" height="50%" src="https://github.com/kuanmin/projects/blob/master/Data%20and%20Matrix/pics/recovered.png">
 </p>
 
- - Projects from **Allianz Global Benefit in Germany**
-   - [x] **Apply latent semantic analysis to recover 83% of the dataset**
-     - Due to a great amount of missing values for disease codes, further analyses are not applicable. Using MIMIC from MIT Lab, latent semantic analysis (LSA) was applied to recover the missing values. With this approach, the amount of available data increased by 83%.
-   - [x] **Apply text similarity algorithm to integrate 95% of data**
-     - Due to high-level data inconsistency in clients' demographic information and medical records, i.e., same meaning but different words or spelling, manpower for correction process was in high demand. Text similarity algorithms were applied; then 95% of data were integrated.
-   - [x] **Script in VBA and Python to 100% automatize format transformations**
-     - Reporting process involved extracting data from database, transforming into reporting format, and uploading to re-porting API. To improve efficiency, Scripting in VBA and Python was applied to 100% automatize format trans-formations.
-   - [x] **Build international databases in healthcare related topics to strengthen the capacity for client anal-ysis and marketing strategy**
-     - To strengthen the capacity for client analysis and marketing strategy, databases were built with topics in health ex-penditure, claim amount, disease, and industry, according to multiple industrial classification standards and public health databases, i.e., WHO, OECD, MIMIC from MIT Lab.
+
 
 
 
