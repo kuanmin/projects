@@ -9,7 +9,6 @@ Kuan Min Chen – Deloitte Actuarial and Insurance Solutions (DAIS)<br />
 **Knowledge & Experience with Data Science and Programming**
 -------
 <br />
-<br />
 
 **Educational Background**
 -------
