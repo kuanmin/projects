@@ -81,7 +81,7 @@ Kuan Min Chen – Deloitte Actuarial and Insurance Solutions (DAIS)<br />
   <img width="80%" height="80%" src="https://github.com/kuanmin/tii_data/blob/main/present.gif">
 </p>
 
-
+<!--
  - [Asset and Liability Modeling for Solvency Test](https://github.com/kuanmin/projects/blob/master/Modeling/Matlab_01.png) (`MATLAB` / *MATLAB*) (Industrial Implementation)<br />
    - Build models such as interest rate, exchange rate, stock price, and rent for asset and liability performance, and forecast and analyze the future performance.
    - Follow with analyses on product providing for different types of guaranteed benefits, and various items of solvency tests.
@@ -90,11 +90,12 @@ Kuan Min Chen – Deloitte Actuarial and Insurance Solutions (DAIS)<br />
 <p align="center">
   <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Modeling/Matlab_01.png">
 </p>
+-->
 
 
 
 
-
+<!--
  - [SEM-based Customer Contentment Analysis on Mass Merchandiser](https://github.com/kuanmin/projects/tree/master/SEM) (`SAS` / *SAS*) <br />
    - Mass merchandisers need to provide the correct information about their products and services to customers. Thus, it is necessary to have the information to enable customers to meet their real needs and to discover the best way to satisfy and retain customers, as well as to follow consumer sentiment, which can provide early warnings of market conduct and performance. This study seeks to understand ways to retain customers and to identify their levels of contentment with mass merchandisers. The research also focused on helping managers assess and identify the major strengths of the critical success factors of merchandisers, so that the company can sustain and maintain the success it has achieved in the market.
    - In the present work, we study the causal effects from buildings and service to satisfaction, contentment and impression for Costco, Carrefour, and a.mart, using **reliability analysis**, **confirmatory factory analysis** (**CFA**), and **structural equation modeling** (**SEM**) analysis.
@@ -105,10 +106,10 @@ Kuan Min Chen – Deloitte Actuarial and Insurance Solutions (DAIS)<br />
 <p align="center">
   <img width="60%" height="60%" src="https://github.com/kuanmin/projects/blob/master/SEM/model.png">
 </p>
- 
+ -->
 
 
-
+<!--
  - [Forecasting of Time Series based on VAR and Maximum Cross-correlation](https://github.com/kuanmin/projects/tree/master/Thesis%20MSc%20Statistics) (`R`) (Master Thesis - Statistics)<br />
     - Master Thesis - **Forecasting of Time Series based on Vector Autoregression Model and Maximum Cross-correlation**
     - The selection of methods plays an important role in the prediction based on time-series data. In most literature reviews, the vector autoregression model (VAR) has been a popular choice for prediction for many years. There are some disadvantages of this method: (**i**) **the model selection procedure can be really complex**; (**ii**) **the model assumptions are difficult to validate**; (**iii**) **it requires a large amount of data for model building**. The objective of this thesis is to provide an new multivariate-time series prediction method based on the concept of maximum cross-correlation. It requires merely the assumption of “fair linearity” between two time series under investigation. This thesis also compares the proposed method to the vector autoregressive (VAR) model which is widely used in time series analysis with the expectation to provide a new prediction method in practical data analysis. We use data from the Taiwan equity funds and the portfolio of those funds to compare the prediction performances of these two methods. Using the **mean prediction squared errors** (**MPSE**) as assessment criterion, the prediction method based on the maximum cross-correlation best performs under all prediction periods.
@@ -117,14 +118,16 @@ Kuan Min Chen – Deloitte Actuarial and Insurance Solutions (DAIS)<br />
 <p align="center">
   <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Thesis%20MSc%20Statistics/formula.png">
 </p>
-
+-->
 
  - [Enhancement of LibKGE](https://github.com/kuanmin/projects/tree/master/Thesis%20MSc%20Data%20Science) (`Python`) (Master Thesis - Data Science)<br />
     - Master Thesis - **Revisiting Ensembles for Knowledge Graph Embeddings**
     - We study the ensembles in KGEs with better trained baselines. Additionally, fine-tune and joint learning were further experimented on ensembles. The study shows that, although ensembles generally outperformed single KGE models with better trained baselines, fine-tuning has shown minor progress comparing to established ensembles. Also, the approaches by joint learning lead to outputs inferior to established ensembles with the same training specification.
     - Open source LibKGE framework is a PyTorch-based library for efficient training, evaluation, and hyperparameter optimization of [knowledge graph embeddings](https://ieeexplore.ieee.org/document/8047276) (KGE). The key goal is to foster reproducible research into (as well as meaningful comparisons between) KGE models and training methods. As the authors argue in [ICLR 2020 paper](https://openreview.net/forum?id=BkxSmlBFvr), the choice of training strategy and hyperparameters are very influential on model performance, often more so than the model class itself.
     - I implement new functions to LibKGE, which will allow the New package to run training and validation, not just on single KGE model, but *multiple models* in one process, so to be able to performe **joint training** and **alternative training models**.
-    
+
+
+<!--
  - [Profitability - Statistical Analysis with Excel VBA](https://github.com/kuanmin/projects/tree/master/Profitability%20Analysis%20with%20Excel%20VBA) (`VBA`) <br />
    - Our team of actuaries play a vital role in our organization. Our daily works relate to actuarial analysis, including **Modeling**, **Predicting**, **Profit and Surplus Analysis**, **Risk and Uncertainty**, and **Validation**. And Excel has been applied to parts of these tasks along with the use of VBA. Here are some examples from my work.
    - Click on the images to see the originals. From left to right, up to down: *asset sheet* - *assumption* - *profit analysis* - *sensitivity test*
@@ -140,7 +143,7 @@ Kuan Min Chen – Deloitte Actuarial and Insurance Solutions (DAIS)<br />
 <p align="center">
   <img width="80%" height="80%" src="https://github.com/kuanmin/projects/blob/master/Profitability%20Analysis%20with%20Excel%20VBA/VBA.png">
 </p>
-
+-->
 
 
 
