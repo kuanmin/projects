@@ -1,5 +1,6 @@
 <!--# <img src="https://github.com/kuanmin/projects/blob/master/welcome.png" width="10%">-->
 Kuan Min Chen – Deloitte Actuarial and Insurance Solutions (DAIS)<br />
+====
 <br />
 <!--Knowledge & Experience with Data Science and Programming.<br />
 ====-->
