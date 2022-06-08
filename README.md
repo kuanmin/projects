@@ -1,6 +1,7 @@
 <!--# <img src="https://github.com/kuanmin/projects/blob/master/welcome.png" width="10%">-->
-Kuan Min Chen – Deloitte Actuarial and Insurance Solutions .<br />
-DS Knowledge & Experience.<br />
+Kuan Min Chen – Deloitte Actuarial and Insurance Solutions (DAIS)<br />
+<br />
+Knowledge & Experience with Data Science and Programming.<br />
 ====
 <!--Here are some **projects and works** and **homemade demos for machine learning**. Some are interesting, useful, and delicate, some reach positive and fruitful results, and some are rather challenging. I have learned many skills through the processes and I am very proud of having them on my portfolio.
 -->
