@@ -15,7 +15,7 @@ Kuan Min Chen – Deloitte Actuarial and Insurance Solutions (DAIS)<br />
 - [x] **Master's Program in Data Science**, *University of Mannheim, Mannheim, Germany*.([website](https://www.uni-mannheim.de/en/academics/programs/mannheim-master-in-data-science/))
 - [x] **Master's Program in Statistics**, *National Chengchi University, Taipei, Taiwan*. ([website](https://stat.nccu.edu.tw/))
 
-<!--**Examples of Actuarial Data Science by Swiss Association of Actuaries**
+**Examples of Actuarial Data Science by Swiss Association of Actuaries**
 -------
 - [x] use CNN to detect anomalies in mortality rates
 - [x] use XGBoost and AdaBoost to predict the probability of claims occurrence
