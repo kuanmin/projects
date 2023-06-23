@@ -33,7 +33,7 @@ Kuan Min Chen – Deloitte Actuarial and Insurance Solutions (DAIS)<br />
 - [x] **Programming**
   - `Python` (numpy, scipy, pandas, statsmodels, matplotlib, seaborn, scikit-learn, pytorch, nltk), `R` (dplyr, ggplot2, shiny), `SQL`, `Excel VBA`, `Linux Bash`
 - [x] **Database**
-  - `relational databases` (*Oracle*, *PostgreSQL*, *MySQL*, *MS Access*, etc.) 
+  - `relational databases` (*PostgreSQL*, *MySQL*, *MS Access*, etc.) 
 - [x] **Visualization**
   - `Tableau`, `Power BI`
 
